@@ -1,1 +1,4 @@
-# AIRBNB-Booking-Analysis
+# AIRBNB-Booking-Analysis-Capstone-Project
+<img src = "https://github.com/U1j1/AIRBNB-Booking-Analysis/blob/main/Airbnb_img.jpeg" alt = "MLBC">
+
+The purpose of the analysis: understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business. This project involved exploring and cleaning a dataset to prepare it for analysis. The data exploration process involved identifying and understanding the characteristics of the data, such as the data types, missing values, and distributions of values. The data cleaning process involved identifying and addressing any issues or inconsistencies in the data, such as errors, missing values, or duplicate records and remove outliers.
