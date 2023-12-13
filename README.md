@@ -17,6 +17,6 @@ The purpose of the analysis: understanding the factors that influence Airbnb pri
 
 3. The Data includes both categorical and numeric values, providing a diverse range of information about the listings.
 
-4.This Dataset may be useful for analyzing trends and patterns in the Airbnb market in New York and also gain insights into the preferences and behavior of Airbnb users in the area.
+4. This Dataset may be useful for analyzing trends and patterns in the Airbnb market in New York and also gain insights into the preferences and behavior of Airbnb users in the area.
 
 5. This dataset contains information about Airbnb bookings in New York City in 2019. By analyzing this data, you may be able to understand the trends and patterns of Airbnb use in the New York City .
