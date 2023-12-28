@@ -71,6 +71,7 @@ All duplicate rows were dropped.
 - Created new column `total_people` by adding `adults`+`children`+`babies`.
 
 ## Charts used for visualization
+ ![chart_1](https://github.com/U1j1/Hotel-Booking-Analysis/assets/99313987/b96566ea-9014-46c2-8785-c02095df1707)
 
 
 ## DIfferent Python Libraries Used in this Project
