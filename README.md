@@ -70,6 +70,8 @@ All duplicate rows were dropped.
 - Created new column `total_stay` by adding `stays_in_weekend_nights`+`stays_in_week_nights`.
 - Created new column `total_people` by adding `adults`+`children`+`babies`.
 
+## Charts used for visualization
+
 
 ## DIfferent Python Libraries Used in this Project
 1. Pandas
