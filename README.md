@@ -92,6 +92,24 @@ All duplicate rows were dropped.
 ## Chart-7
 ![chart7](https://github.com/U1j1/Hotel-Booking-Analysis/assets/99313987/3e0fd802-a1b3-47a6-8bd2-a0019eae7263)
 
+## Chart-8
+![chart8](https://github.com/U1j1/Hotel-Booking-Analysis/assets/99313987/f2cebe05-45f7-4ad7-8e82-b5b5c1165723)
+
+## Chart-9
+![chart9](https://github.com/U1j1/Hotel-Booking-Analysis/assets/99313987/f0a9f000-c77b-43eb-b4ba-743708c3170c)
+
+## Chart-10
+![chart](https://github.com/U1j1/Hotel-Booking-Analysis/assets/99313987/d1500f0d-b5cc-4e1a-8235-e99050670331)
+
+## Chart-11
+![chart11](https://github.com/U1j1/Hotel-Booking-Analysis/assets/99313987/909576d5-1901-4ccb-b6f6-94820abbd8fb)
+
+## Chart-12
+![chart12](https://github.com/U1j1/Hotel-Booking-Analysis/assets/99313987/33d0b13b-826b-4917-af33-0e43c81c07fe)
+
+## Chart-13
+![Heatmap14](https://github.com/U1j1/Hotel-Booking-Analysis/assets/99313987/15b7cfba-6f6a-42ab-821c-2a5b088c1d95)
+
 
 
 
