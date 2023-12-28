@@ -98,4 +98,4 @@ All duplicate rows were dropped.
 (14) For customers, generally the longer stays (more than 15 days) can result in better deals in terms of low adr.
 
 
-### Click [here] to view the solution for the Analysis
+### Click [here](https://github.com/U1j1/Hotel-Booking-Analysis/blob/main/Ujjwal's_Project_of_Hotel_Booking_Analysis.ipynb) to view the solution for the Analysis
