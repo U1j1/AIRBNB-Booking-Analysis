@@ -63,7 +63,7 @@ All duplicate rows were dropped.
 - Changed data type of `reservation_status_date` to date type.
 
 ### (4) Removing outliers
-
+ 
 - One outlier was found in the `adr` column. Simply dropped it.
 
 ### (5) Creating new columns
