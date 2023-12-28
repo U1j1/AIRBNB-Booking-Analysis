@@ -77,6 +77,10 @@ All duplicate rows were dropped.
 ## Chart-2
 ![chart_2](https://github.com/U1j1/Hotel-Booking-Analysis/assets/99313987/5f26beef-49ec-4b4c-9e49-75f8724effec)
 
+## Chart-3
+![chart3](https://github.com/U1j1/Hotel-Booking-Analysis/assets/99313987/0039385d-0ef4-4123-9a4a-c024ea5dba77)
+
+
 
 
 ## DIfferent Python Libraries Used in this Project
